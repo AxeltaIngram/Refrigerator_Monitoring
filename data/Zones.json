@@ -1,0 +1,42 @@
+{
+    "app_id": "aebed3b90bcabac4e7c6eef5b9e601",
+    "collection_id": "dcb2c4c10ba0c7a29bafecb4e413",
+    "items": [
+        {
+            "item_id": "7338eb31-5f91-4b53-a977-7a48c68d08f5",
+            "location_id": "ae9cd9b7-6c6c-491e-87dc-2efb6e58b567",
+            "name": "Coffee Station 3"
+        },
+        {
+            "item_id": "d311654a-e5fe-4c46-8ac1-6e18e0acdd72",
+            "location_id": "ae9cd9b7-6c6c-491e-87dc-2efb6e58b567",
+            "name": "Demo Center"
+        }
+    ],
+    "name": "Zones",
+    "permissions": {
+        "Administrator": 15,
+        "Anonymous": 0,
+        "Authenticated": 15,
+        "Monnit Webhook Adapter": 15,
+        "PortalEditor": 15,
+        "sms-webhook-adapter": 15
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "name",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "location_id",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}
