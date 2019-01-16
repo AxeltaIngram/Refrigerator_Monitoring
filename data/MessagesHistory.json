@@ -1,0 +1,71 @@
+{
+    "app_id": "aebed3b90bcabac4e7c6eef5b9e601",
+    "collection_id": "f2a6d2c00bdc97f991d8d2c6d63e",
+    "items": [
+        {
+            "from_email_id": "usman.minhas@ingrammicro.com",
+            "item_id": "991aab98-5ad2-4c72-b946-286278adfdab",
+            "message": "Test",
+            "priority": "low",
+            "sent_date": "2018-12-17T20:40:34.618Z",
+            "to_email_id": "usman.minhas@ingrammicro.com"
+        },
+        {
+            "from_email_id": "usman.minhas@ingrammicro.com",
+            "item_id": "b1bd8779-0c6b-4bfe-abbd-7060cb69d617",
+            "message": "Test",
+            "priority": "low",
+            "sent_date": "2018-12-17T20:41:08.845Z",
+            "to_email_id": "usman.minhas@ingrammicro.com"
+        },
+        {
+            "from_email_id": "test@axelta.com",
+            "item_id": "c3d8e469-645f-4876-ae7b-3c23a82cd7d8",
+            "message": "Test Message",
+            "priority": "low",
+            "sent_date": "2018-12-07T10:26:12.39Z",
+            "to_email_id": "subhash@axelta.com"
+        }
+    ],
+    "name": "MessagesHistory",
+    "permissions": {
+        "Administrator": 15,
+        "Anonymous": 0,
+        "Authenticated": 15,
+        "Monnit Webhook Adapter": 15,
+        "PortalEditor": 0,
+        "sms-webhook-adapter": 0
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "from_email_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "to_email_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "sent_date",
+            "ColumnType": "timestamp",
+            "PK": false
+        },
+        {
+            "ColumnName": "message",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "priority",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}
