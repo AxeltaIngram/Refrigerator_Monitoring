@@ -1,0 +1,116 @@
+{
+    "app_id": "aebed3b90bcabac4e7c6eef5b9e601",
+    "collection_id": "de8e9eba0bcade92e8ebfea3a323",
+    "items": [
+        {
+            "asset_id": "c7a2e412-3865-4f12-8fc4-dd63d592763a",
+            "battery_level": "101",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "employee_id": "usman.minhas@ingrammicro.com",
+            "gateway_description": "",
+            "gateway_id": "913529",
+            "gateway_label": "Demo Center",
+            "gateway_name": "CGW3 3g North America - 913529",
+            "item_id": "e52d18c6-d3cf-4fea-9b1b-b4e64106d9be",
+            "location_id": "ae9cd9b7-6c6c-491e-87dc-2efb6e58b567",
+            "network_id": "5",
+            "notes": "",
+            "signal_strength": "23",
+            "zone_id": "d311654a-e5fe-4c46-8ac1-6e18e0acdd72,7338eb31-5f91-4b53-a977-7a48c68d08f5"
+        },
+        {
+            "asset_id": "09eedbbc-5516-4cb6-bf65-145232a9312c",
+            "battery_level": "101",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "employee_id": "",
+            "gateway_description": "",
+            "gateway_id": "222222",
+            "gateway_label": "Test gateway",
+            "gateway_name": "CGW3 3g North America - 222222",
+            "item_id": "fb6c294b-5b94-44ec-b68b-b4d7963cf7f7",
+            "location_id": "5d0db3e6-f2a7-4c0e-bd89-3b806f8a8226",
+            "network_id": "5",
+            "notes": "",
+            "signal_strength": "22",
+            "zone_id": "78bb7ae3-3978-458a-a5f1-c3dfd766b399"
+        }
+    ],
+    "name": "Gateways",
+    "permissions": {
+        "Administrator": 15,
+        "Authenticated": 15,
+        "Monnit Webhook Adapter": 15
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "gateway_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "network_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "gateway_name",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "gateway_label",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "gateway_description",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "notes",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "location_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "customer_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "employee_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "battery_level",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "signal_strength",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "zone_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "asset_id",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}
