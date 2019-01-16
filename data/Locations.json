@@ -1,0 +1,94 @@
+{
+    "app_id": "aebed3b90bcabac4e7c6eef5b9e601",
+    "collection_id": "8ebc96ba0b80f1b5b3aeb2b7ccde01",
+    "items": [
+        {
+            "address": "88 Standish Court, Mississauga, Ontario, L5R4A1",
+            "boundaries": "",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "description": "",
+            "icon": "",
+            "item_id": "5d0db3e6-f2a7-4c0e-bd89-3b806f8a8226",
+            "lat": "43.761539",
+            "location_type_id": "681e2338-4539-4b25-abf1-fc342dddb5c8",
+            "long": "-79.411079",
+            "manager_id": "Savio.Lee@ingrammicro.com",
+            "name": "Ingram Micro Warehouse"
+        },
+        {
+            "address": "88 Standish Court, Mississauga, Ontario, L5R4A1",
+            "boundaries": "",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "description": "Ingram Micro Office",
+            "icon": "",
+            "item_id": "ae9cd9b7-6c6c-491e-87dc-2efb6e58b567",
+            "lat": "43.761539",
+            "location_type_id": "b04f6d90-b095-4eb0-b977-94bb89a107d2",
+            "long": "-79.411079",
+            "manager_id": "Savio.Lee@ingrammicro.com",
+            "name": "55 Standish Court"
+        }
+    ],
+    "name": "Locations",
+    "permissions": {
+        "Administrator": 15,
+        "Authenticated": 15
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "customer_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "icon",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "boundaries",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "name",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "description",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "lat",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "long",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "address",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "manager_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "location_type_id",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}
