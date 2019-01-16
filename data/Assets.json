@@ -1,0 +1,133 @@
+{
+    "app_id": "aebed3b90bcabac4e7c6eef5b9e601",
+    "collection_id": "f6c697ba0bd2aaf88ae69ebddd8301",
+    "items": [
+        {
+            "asset_model": "",
+            "asset_type_id": "",
+            "comments": "asdf",
+            "customer_id": "234234",
+            "item_id": "631218c4-3d0b-4a64-b57e-bfa40c737533",
+            "last_serviced": null,
+            "location_id": "23423",
+            "name": "Bobs Refrigerator",
+            "primary_employee": "b@b.com",
+            "technician_notes": "",
+            "zone_id": ""
+        },
+        {
+            "asset_model": "",
+            "asset_type_id": "",
+            "comments": "asdf",
+            "customer_id": "234234",
+            "item_id": "67dbaeeb-0775-42e6-8731-4a3c4bfa86e6",
+            "last_serviced": null,
+            "location_id": "23423",
+            "name": "Bobs Refrigerator",
+            "primary_employee": "b@b.com",
+            "technician_notes": "",
+            "zone_id": ""
+        },
+        {
+            "asset_model": "R1",
+            "asset_type_id": "019515e7-8544-4b45-857e-b539a911a1cf",
+            "comments": "Second fridge serving coffee station.",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "item_id": "9194c30f-e8f6-4530-afdb-99e68dacde24",
+            "last_serviced": "2019-01-08T12:04:39.147Z",
+            "location_id": "ae9cd9b7-6c6c-491e-87dc-2efb6e58b567",
+            "name": "Coffee Station Fridge 2",
+            "primary_employee": "usman.minhas@ingrammicro.com",
+            "technician_notes": "Everything is ok",
+            "zone_id": "7338eb31-5f91-4b53-a977-7a48c68d08f5"
+        },
+        {
+            "asset_model": "M1",
+            "asset_type_id": "02a7c665-31d7-4f8f-980b-4c62739771c6",
+            "comments": "Demo Center Fridge",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "item_id": "c7a2e412-3865-4f12-8fc4-dd63d592763a",
+            "last_serviced": "2019-01-08T12:02:37.252Z",
+            "location_id": "ae9cd9b7-6c6c-491e-87dc-2efb6e58b567",
+            "name": "Demo Center Fridge",
+            "primary_employee": "usman.minhas@ingrammicro.com",
+            "technician_notes": "Everything is ok",
+            "zone_id": "d311654a-e5fe-4c46-8ac1-6e18e0acdd72"
+        },
+        {
+            "asset_model": "R2",
+            "asset_type_id": "019515e7-8544-4b45-857e-b539a911a1cf",
+            "comments": "This fridge also serves the sales coffee station. ",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "item_id": "d6b893a3-6cd0-4750-b7d9-64254c0b4d5f",
+            "last_serviced": "2019-01-08T12:04:42.755Z",
+            "location_id": "ae9cd9b7-6c6c-491e-87dc-2efb6e58b567",
+            "name": "Coffee Station Fridge",
+            "primary_employee": "usman.minhas@ingrammicro.com",
+            "technician_notes": "Everything is ok",
+            "zone_id": "7338eb31-5f91-4b53-a977-7a48c68d08f5"
+        }
+    ],
+    "name": "Assets",
+    "permissions": {
+        "Administrator": 15,
+        "Authenticated": 15
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "name",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "asset_type_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "location_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "customer_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "primary_employee",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "comments",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "zone_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "asset_model",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "last_serviced",
+            "ColumnType": "timestamp",
+            "PK": false
+        },
+        {
+            "ColumnName": "technician_notes",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}
