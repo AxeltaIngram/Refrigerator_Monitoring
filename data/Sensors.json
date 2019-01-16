@@ -1,0 +1,220 @@
+{
+    "app_id": "aebed3b90bcabac4e7c6eef5b9e601",
+    "collection_id": "d6f38aba0bace4f3ffb6cd8c94a601",
+    "items": [
+        {
+            "asset_id": "c7a2e412-3865-4f12-8fc4-dd63d592763a",
+            "battery_level": "100",
+            "contact_id": "usman.minhas@ingrammicro.com",
+            "created_date": "2018-09-21T00:40:18.682Z",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "gateway_id": "913529",
+            "item_id": "416aa1f0-d383-48c4-b50d-8d5f7de2171c",
+            "last_active": "2019-01-16T06:17:25.553Z",
+            "latest_payload": "11.5",
+            "location_id": "ae9cd9b7-6c6c-491e-87dc-2efb6e58b567",
+            "sensor_id": "385085",
+            "sensor_label": "DC Fridge Temp",
+            "sensor_name": "Temp Lab Fridge - 385085",
+            "sensor_type_id": "19637d5b-3782-48dc-8259-794488a89d73",
+            "signal_strength": "51",
+            "zone_id": "d311654a-e5fe-4c46-8ac1-6e18e0acdd72"
+        },
+        {
+            "asset_id": "c7a2e412-3865-4f12-8fc4-dd63d592763a",
+            "battery_level": "100",
+            "contact_id": "admin@clearblade.com",
+            "created_date": "2018-09-21T00:40:18.523Z",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "gateway_id": "913529",
+            "item_id": "6c1ebc6e-ca1a-48c3-adab-1b9ec785615e",
+            "last_active": "2019-01-16T06:17:25.624Z",
+            "latest_payload": "True",
+            "location_id": "ae9cd9b7-6c6c-491e-87dc-2efb6e58b567",
+            "sensor_id": "385010",
+            "sensor_label": "Demo Centre Fridge",
+            "sensor_name": "O/C- 385010",
+            "sensor_type_id": "d61e87ba-9f00-4732-8ffe-31d0d6c8c3fa",
+            "signal_strength": "76",
+            "zone_id": "d311654a-e5fe-4c46-8ac1-6e18e0acdd72"
+        },
+        {
+            "asset_id": "c7a2e412-3865-4f12-8fc4-dd63d592763a",
+            "battery_level": "100",
+            "contact_id": "usman.minhas@ingrammicro.com",
+            "created_date": "2018-12-04T21:08:05.203Z",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "gateway_id": "913529",
+            "item_id": "76f44468-908f-4904-b987-1b829453d666",
+            "last_active": "2019-01-11T15:21:44.13Z",
+            "latest_payload": "43.5",
+            "location_id": "ae9cd9b7-6c6c-491e-87dc-2efb6e58b567",
+            "sensor_id": "435094",
+            "sensor_label": "Food Probe (New)",
+            "sensor_name": "Industrial_Probe_435094",
+            "sensor_type_id": "4ebd356c-b35d-4b7d-a2be-2b6854973057",
+            "signal_strength": "100",
+            "zone_id": "d311654a-e5fe-4c46-8ac1-6e18e0acdd72"
+        },
+        {
+            "asset_id": "9194c30f-e8f6-4530-afdb-99e68dacde24",
+            "battery_level": "100",
+            "contact_id": "aallsbrook@clearblade.com",
+            "created_date": "2018-12-19T12:16:02.974Z",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "gateway_id": "913529",
+            "item_id": "94b9e296-6308-4ed4-96e3-9cf619352e20",
+            "last_active": "2019-01-16T06:27:25.74Z",
+            "latest_payload": "True",
+            "location_id": "ae9cd9b7-6c6c-491e-87dc-2efb6e58b567",
+            "sensor_id": "385008",
+            "sensor_label": "CS Fridge 2 O/C",
+            "sensor_name": "O/C  - 385008",
+            "sensor_type_id": "d61e87ba-9f00-4732-8ffe-31d0d6c8c3fa",
+            "signal_strength": "99",
+            "zone_id": "7338eb31-5f91-4b53-a977-7a48c68d08f5"
+        },
+        {
+            "asset_id": "d6b893a3-6cd0-4750-b7d9-64254c0b4d5f",
+            "battery_level": "100",
+            "contact_id": "aalcott@clearblade.com",
+            "created_date": "2018-12-19T12:15:03.081Z",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "gateway_id": "913529",
+            "item_id": "be509154-a6f1-4640-acb5-6bafafdb31ea",
+            "last_active": "2019-01-16T06:27:25.868Z",
+            "latest_payload": "True",
+            "location_id": "ae9cd9b7-6c6c-491e-87dc-2efb6e58b567",
+            "sensor_id": "385015",
+            "sensor_label": "CS Fridge O/C",
+            "sensor_name": "O/C- 385015",
+            "sensor_type_id": "d61e87ba-9f00-4732-8ffe-31d0d6c8c3fa",
+            "signal_strength": "100",
+            "zone_id": "7338eb31-5f91-4b53-a977-7a48c68d08f5"
+        },
+        {
+            "asset_id": "9194c30f-e8f6-4530-afdb-99e68dacde24",
+            "battery_level": "100",
+            "contact_id": "usman.minhas@ingrammicro.com",
+            "created_date": "2018-09-21T00:40:18.642Z",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "gateway_id": "913529",
+            "item_id": "c2c406a0-270b-46db-adf7-741a5a8a414c",
+            "last_active": "2019-01-16T06:17:25.673Z",
+            "latest_payload": "18.5",
+            "location_id": "ae9cd9b7-6c6c-491e-87dc-2efb6e58b567",
+            "sensor_id": "385258",
+            "sensor_label": "CS Fridge 2 Temp",
+            "sensor_name": "Temp- 385258",
+            "sensor_type_id": "19637d5b-3782-48dc-8259-794488a89d73",
+            "signal_strength": "57",
+            "zone_id": "7338eb31-5f91-4b53-a977-7a48c68d08f5"
+        },
+        {
+            "asset_id": "d6b893a3-6cd0-4750-b7d9-64254c0b4d5f",
+            "battery_level": "100",
+            "contact_id": "usman.minhas@ingrammicro.com",
+            "created_date": "2018-10-13T01:05:51.253Z",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "gateway_id": "913529",
+            "item_id": "fc373ac7-d59c-420c-923e-ecebd400b6cc",
+            "last_active": "2019-01-16T06:17:25.78Z",
+            "latest_payload": "18.6",
+            "location_id": "ae9cd9b7-6c6c-491e-87dc-2efb6e58b567",
+            "sensor_id": "385259",
+            "sensor_label": "CS Fridge Temp",
+            "sensor_name": "Temp - 385259",
+            "sensor_type_id": "19637d5b-3782-48dc-8259-794488a89d73",
+            "signal_strength": "61",
+            "zone_id": "7338eb31-5f91-4b53-a977-7a48c68d08f5"
+        }
+    ],
+    "name": "Sensors",
+    "permissions": {
+        "Administrator": 15,
+        "Authenticated": 15,
+        "Monnit Webhook Adapter": 15
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "sensor_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "sensor_name",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "sensor_label",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "gateway_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "location_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "customer_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "contact_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "latest_payload",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "created_date",
+            "ColumnType": "timestamp",
+            "PK": false
+        },
+        {
+            "ColumnName": "last_active",
+            "ColumnType": "timestamp",
+            "PK": false
+        },
+        {
+            "ColumnName": "asset_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "sensor_type_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "signal_strength",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "battery_level",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "zone_id",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}
