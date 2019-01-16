@@ -1,0 +1,73 @@
+{
+    "app_id": "aebed3b90bcabac4e7c6eef5b9e601",
+    "collection_id": "98c597ba0ba4da9cafe9fdc8aff401",
+    "items": [
+        {
+            "description": "kj",
+            "icon": "",
+            "item_id": "019515e7-8544-4b45-857e-b539a911a1cf",
+            "name": "Refrigerator",
+            "notes": ""
+        },
+        {
+            "description": "",
+            "icon": "",
+            "item_id": "02a7c665-31d7-4f8f-980b-4c62739771c6",
+            "name": "Microfridge",
+            "notes": ""
+        },
+        {
+            "description": "",
+            "icon": "",
+            "item_id": "10b59462-2f5f-4179-a5f2-78af5c23ca33",
+            "name": "Freezer",
+            "notes": ""
+        },
+        {
+            "description": "",
+            "icon": "",
+            "item_id": "babf2d3a-3e1f-4a85-949c-1ce1da42ded3",
+            "name": "Walk-in",
+            "notes": ""
+        },
+        {
+            "description": "",
+            "icon": "",
+            "item_id": "c4d1a911-2483-448c-a328-100a42c73c9f",
+            "name": "Cooler",
+            "notes": ""
+        }
+    ],
+    "name": "AssetTypes",
+    "permissions": {
+        "Administrator": 15,
+        "Authenticated": 15
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "name",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "description",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "notes",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "icon",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}
